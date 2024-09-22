@@ -1,0 +1,61 @@
+Nome,Data de Nascimento,Sexo,Estado Civil,Naturalidade,Raça/Cor,Comorbidades,QUEST 1   ,QUEST 2,QUEST 3,QUEST 4,QUEST 5,QUEST 6,QUEST 7,QUEST 8,QUEST 9,QUEST 10,QUEST 11,QUEST 12,QUEST 13,QUEST 14,QUEST 15,QUEST 16,QUEST 17,QUEST 18,QUEST 19,QUEST 20,QUEST 21,QUEST 22,QUEST 23,QUEST 24,QUEST 25,QUEST 26
+lrln,17/10/1935,Feminino,Viúva,salvador,Preto,"Diabetes Mellitus, Osteoporose, Catarata, Dislipidemia",4,4,4,4,5,5,5,4,4,4,3,3,5,4,4,4,5,4,5,5,2,4,4,4,1,1
+mcsb,14/10/1925,Feminino,Divorciada,candeias,Pardo,Dislipidemia,4,4,3,2,4,4,3,4,5,4,4,3,4,5,5,3,4,4,5,4,4,4,5,3,3,3
+esf,29/12/1953,Feminino,Viúva,santa inês,Pardo,"Hipertensão Arterial, Dislipidemia",4,3,1,2,4,4,2,5,5,4,4,3,3,3,4,5,5,5,5,3,4,3,5,3,4,4
+amdf,10/07/1949,Feminino,Divorciada,salvador,Pardo,"Hipertensão Arterial, Catarata, Dislipidemia",4,3,3,3,3,4,3,3,4,3,4,3,5,4,4,3,3,4,4,3,3,4,3,2,3,2
+tga,15/11/1956,Feminino,Solteira,salvador,Pardo,"Osteoporose, Dislipidemia",4,4,2,4,5,5,4,5,3,4,5,3,3,3,4,3,4,4,3,3,4,4,5,3,4,2
+lsl,25/11/1956,Feminino,Divorciada,salvador,Pardo,Nenhuma,4,5,2,1,4,4,4,4,4,5,5,3,5,3,5,4,5,5,5,4,4,4,5,5,5,2
+jcsn,13/05/1959,Feminino,Casada,ilhéus,Pardo,"Catarata, Dislipidemia",4,4,2,2,4,4,4,4,3,4,3,2,4,4,4,3,4,4,4,5,5,5,3,3,3,2
+hds,01/09/1936,Feminino,Viúva,salvador,Pardo,"Diabetes Mellitus, Hipertensão Arterial",3,3,3,3,2,3,2,3,1,3,5,3,5,2,3,2,3,3,3,4,4,4,3,2,3,5
+agm,18/05/1952,Feminino,Divorciada,utinga,Amarelo,"Osteoporose, Catarata",5,4,1,1,5,4,3,2,4,4,5,3,4,3,5,5,5,4,5,5,4,4,4,5,3,1
+wbs,13/12/1943,Feminino,Viúva,salvador,Preto,"Diabetes Mellitus, Hipertensão Arterial, Osteoporose, Catarata, Dislipidemia",4,4,3,5,5,5,3,4,3,4,5,5,4,4,4,3,3,2,5,5,4,5,5,4,2,2
+dcs,13/02/1964,Feminino,Solteira,santo amaro,Pardo,Osteoporose,5,4,3,4,5,5,4,5,3,4,5,2,5,5,3,5,3,2,5,4,4,5,5,5,1,1
+mcbs,26/04/1957,Feminino,Divorciada,salvador,Pardo,"Hipertensão Arterial, Dislipidemia",5,1,2,5,5,2,5,5,4,4,4,2,4,5,5,4,4,4,4,5,5,4,5,5,5,2
+rrf,26/01/1963,Feminino,Casada,feira de santana,Pardo,Hipertensão Arterial,4,4,1,1,4,5,3,5,5,5,5,3,5,5,5,3,4,4,5,4,3,4,3,4,4,2
+amlb,11/09/1943,Masculino,Viúva,salvador,Pardo,Nenhuma,4,4,1,2,4,4,3,4,4,5,4,3,3,4,5,4,4,4,4,4,4,4,4,4,4,2
+elo,14/05/1949,Feminino,Viúva,itagi,Pardo,"Diabetes Mellitus, Hipertensão Arterial, Catarata, Dislipidemia",5,4,2,1,3,5,2,4,4,4,5,2,3,2,4,1,4,5,5,5,5,5,5,3,2,2
+smsm,26/06/1947,Feminino,Viúva,salvador,Pardo,Hipertensão Arterial,5,5,2,2,4,5,4,5,4,4,5,3,3,3,5,3,5,5,5,5,4,4,5,2,4,1
+amss,26/07/1948,Feminino,Casada,salvador,Preto,"Diabetes Mellitus, Hipertensão Arterial, Catarata",5,3,3,1,3,4,4,2,4,3,4,3,4,4,3,4,4,3,4,4,4,5,5,4,3,1
+ass,24/05/1947,Feminino,Solteira,baixa grande,Preto,"Diabetes Mellitus, Hipertensão Arterial, Catarata, Dislipidemia",5,5,4,3,3,3,4,4,3,3,3,4,3,4,4,4,3,3,2,5,3,3,5,3,3,5
+eas,12/01/1948,Feminino,Viúva,valença,Pardo,"Diabetes Mellitus, Hipertensão Arterial, Dislipidemia",5,4,1,2,5,5,5,4,5,5,5,3,5,5,5,4,5,4,5,5,5,5,5,4,4,1
+amb,08/06/1956,Feminino,Solteira,salvador,Branco,"Catarata, Dislipidemia",5,5,1,5,5,5,4,5,5,5,5,5,5,5,5,3,5,5,4,3,5,4,5,1,1,2
+mlra,04/12/1932,Feminino,Viúva,boa novas,Preto,"Hipertensão Arterial, Catarata, Dislipidemia",5,4,3,3,5,4,3,3,3,3,3,3,3,3,3,2,2,2,5,5,4,4,4,4,4,4
+rra,24/01/1943,Feminino,Solteira,valença,Pardo,"Hipertensão Arterial, Catarata",5,5,1,1,3,4,4,4,4,3,4,4,4,3,5,5,5,5,5,5,5,5,5,4,5,1
+mssj,08/07/1942,Feminino,Viúva,muritiba,Preto,"Diabetes Mellitus, Hipertensão Arterial, Catarata, Dislipidemia",4,3,2,1,3,4,4,4,4,3,4,3,3,2,4,3,3,2,4,4,4,4,3,3,3,2
+vr,30/11/1946,Feminino,Viúva,salvador,Branco,"Osteoporose, Catarata",4,4,1,1,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,5,5,3,4,2
+jgfc,04/11/1940,Feminino,Viúva,manaus,Pardo,"Catarata, Dislipidemia",4,4,2,2,4,5,4,4,3,4,3,3,3,4,5,4,4,4,4,4,4,5,4,3,5,2
+aigs,11/10/1954,Feminino,Viúva,salvador,Preto,"Hipertensão Arterial, Dislipidemia",5,4,1,2,2,3,5,4,4,5,4,5,4,4,5,4,4,4,3,3,2,4,3,3,3,2
+ags,18/05/1953,Masculino,Divorciada,feira de santana,Pardo,Hipertensão Arterial,4,4,1,1,4,5,4,3,4,5,5,3,4,4,4,4,4,4,5,3,4,3,4,5,3,2
+imcv,20/06/1954,Feminino,Solteira,conselheiro passo MG,Pardo,"Hipertensão Arterial, Catarata, Dislipidemia",4,5,1,4,4,5,3,4,5,5,5,5,5,5,5,3,5,4,5,5,5,5,4,3,5,2
+lss,27/01/1954,Feminino,Divorciada,salvador,Pardo,Hipertensão Arterial,3,4,1,1,5,4,5,5,4,5,5,2,3,4,5,4,4,5,5,4,3,4,3,4,2,2
+sms,01/05/1958,Feminino,Divorciada,feira de santana,Branco,"Dislipidemia, Doença Cardíaca",3,4,4,1,1,2,1,3,5,3,5,3,4,1,4,2,4,3,1,3,1,3,1,2,4,3
+jjsa,18/09/1954,Masculino,Casada,salvador,Preto,"Hipertensão Arterial, Dislipidemia",4,5,1,1,4,4,4,4,4,5,5,4,4,4,5,4,5,5,5,4,5,4,5,4,5,2
+emb,15/02/1900,Feminino,Viúva,candeias,Pardo,Hipertensão Arterial,4,4,1,2,3,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,1
+nrcp,20/11/1944,Feminino,Casada,salvador,Pardo,Nenhuma,3,5,2,1,4,4,3,3,4,4,4,3,4,4,5,4,4,4,5,5,4,5,4,4,4,1
+hgn,05/06/1936,Feminino,Viúva,minas piracora,Pardo,Catarata,4,5,1,1,3,5,4,5,4,5,5,4,5,4,4,4,5,5,5,4,5,4,4,4,4,3
+mcds,11/02/1964,Feminino,Divorciada,salvador,Pardo,Nenhuma,4,4,1,1,4,5,4,3,3,4,3,3,4,5,5,5,4,3,3,5,3,3,3,3,2,3
+rs,09/11/1954,Feminino,Solteira,itapetinga,Pardo,"Hipertensão Arterial, Osteoporose",5,5,5,5,3,5,4,4,5,5,5,3,5,4,5,2,4,4,5,5,5,5,5,4,3,3
+jlt,17/03/1958,Feminino,Casada,salvador,Pardo,"Diabetes Mellitus, Hipertensão Arterial, Osteoporose, Catarata, Dislipidemia",5,4,5,4,5,5,3,4,5,4,4,3,5,5,4,4,4,5,4,4,5,5,4,4,4,4
+afv,30/11/1958,Feminino,Solteira,maragogipe,Amarelo,"Diabetes Mellitus, Osteoporose, Catarata, Dislipidemia",3,2,1,2,4,4,1,3,4,2,2,1,2,1,5,2,4,4,2,3,4,3,4,2,2,3
+ab,21/10/1947,Feminino,Solteira,santo antônio de jesus,Pardo,"Catarata, Dislipidemia",5,5,1,1,5,5,4,4,4,4,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,4
+lhav,15/07/1957,Feminino,Casada,canavieiras,Pardo,Dislipidemia,4,4,2,4,4,4,3,4,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,2
+dapgm,05/06/1957,Feminino,Viúva,madre de deus,Pardo,Hipertensão Arterial,4,4,1,1,3,4,4,4,3,4,5,3,4,3,5,4,4,4,5,4,4,4,4,5,5,2
+nmb,10/04/1961,Feminino,Solteira,recife pe,Pardo,Dislipidemia,4,4,1,1,3,5,5,4,4,5,3,3,4,4,5,4,5,5,4,4,3,2,4,3,3,2
+tr,07/08/1957,Feminino,Casada,são gonçalo do campo,Preto,"Diabetes Mellitus, Hipertensão Arterial, Catarata",4,3,2,1,5,5,3,3,4,3,5,3,3,4,5,5,5,5,5,4,4,4,4,3,3,1
+jas,08/08/1941,Masculino,Divorciada,salinas das margaridas,Preto,Dislipidemia,4,5,1,1,4,4,3,4,4,4,4,3,4,3,4,4,4,4,5,4,4,4,4,4,5,2
+mnfm,08/09/1951,Feminino,Solteira,salvador,Pardo,"Diabetes Mellitus, Hipertensão Arterial, Catarata, Dislipidemia",4,4,1,3,4,5,4,4,4,4,4,4,4,5,5,3,2,2,5,5,4,4,4,3,2,2
+ebm,16/02/1946,Feminino,Solteira,itaberaba,Pardo,"Hipertensão Arterial, Catarata, Dislipidemia",5,4,1,1,4,4,4,5,5,5,5,5,4,5,5,5,5,5,5,4,4,5,5,3,3,2
+mjs,24/12/1984,Feminino,Viúva,cabo sul,Pardo,"Hipertensão Arterial, Catarata, Dislipidemia",4,5,1,2,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,1,1
+mjp,10/12/1954,Feminino,Viúva,salvador,Pardo,"Catarata, Dislipidemia",5,4,1,1,4,5,4,4,5,5,5,5,5,5,5,2,5,5,5,4,5,5,5,4,3,3
+mlpm,02/02/1950,Feminino,Solteira,salvador,Branco,"Diabetes Mellitus, Hipertensão Arterial, Catarata, Dislipidemia",4,5,1,2,5,5,4,4,3,5,5,4,5,5,5,5,5,5,5,5,4,5,4,5,4,4
+jgcs,06/09/1948,Feminino,Solteira,salvador,Pardo,"Diabetes Mellitus, Osteoporose, Catarata, Dislipidemia",3,3,1,2,5,5,5,5,4,5,5,4,4,4,5,4,5,5,5,5,5,4,5,4,4,1
+adsc,20/10/1944,Feminino,Solteira,salvador,Pardo,"Hipertensão Arterial, Catarata, Dislipidemia",4,4,2,2,3,4,5,5,5,5,5,5,4,5,4,4,4,4,4,4,4,4,4,3,2,2
+maj,24/04/1946,Masculino,Casada,itiuba,Pardo,"Diabetes Mellitus, Hipertensão Arterial, Osteoporose, Catarata",4,4,1,1,4,4,5,5,4,4,5,3,4,4,5,5,5,5,5,5,3,4,4,3,4,1
+mgba,20/08/1955,Feminino,Viúva,amargosa,Pardo,"Diabetes Mellitus, Catarata",4,4,3,2,5,5,4,5,5,5,4,4,5,5,5,4,4,4,5,5,2,5,5,4,4,1
+dclers,29/12/1949,Feminino,Divorciada,paripiranga,Pardo,Catarata,4,5,1,1,3,5,4,4,2,4,3,3,4,4,5,3,5,5,5,3,5,4,5,4,3,1
+mlc,11/02/1954,Feminino,Divorciada,euclides da cunha,Branco,"Hipertensão Arterial, Dislipidemia",5,4,1,1,5,5,5,5,4,5,5,5,5,5,5,4,5,5,5,5,4,5,5,4,5,1
+jb,04/12/1948,Feminino,Solteira,madre de deus,Pardo,"Hipertensão Arterial, Catarata, Dislipidemia",4,5,1,1,4,4,5,2,4,4,5,5,4,2,3,4,4,5,5,3,4,3,3,5,3,1
+ns,22/06/1953,Feminino,Solteira,salvador,Pardo,"Hipertensão Arterial, Catarata, Dislipidemia",4,4,3,3,5,4,4,4,3,4,3,4,4,4,4,2,5,5,5,5,1,4,4,3,2,1
+igs,12/10/1946,Feminino,Divorciada,cachoeira,Pardo,"Diabetes Mellitus, Catarata, Dislipidemia",4,3,1,1,3,5,3,5,4,5,2,3,3,3,5,1,4,4,5,4,4,3,5,2,3,4
+orc,15/02/1959,Masculino,Casada,salvador,Preto,Hipertensão Arterial,5,5,1,2,4,5,5,4,3,5,5,5,5,4,5,4,5,5,5,4,3,4,3,3,3,1
+apa,25/07/1943,Feminino,Viúva,feira de santana,Pardo,"Hipertensão Arterial, Dislipidemia",3,3,1,3,3,5,4,2,2,4,4,3,3,3,4,3,3,3,3,4,3,4,2,3,4,4
