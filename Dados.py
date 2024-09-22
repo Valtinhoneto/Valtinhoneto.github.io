@@ -28,15 +28,6 @@ pizza = px.pie(
     color_discrete_sequence=px.colors.sequential.RdBu
 )
 
-# Salvar os gráficos como strings HTML
-barras_html = barras.to_html(full_html=False, include_plotlyjs='cdn')
-pizza_html = pizza.to_html(full_html=False, include_plotlyjs='cdn')
-
-# Salvar o conteúdo em arquivos para incorporar no index.html
-with open('barras_html.txt', 'w') as f:
-    f.write(barras_html)
-
-with open('pizza_html.txt', 'w') as f:
-    f.write(pizza_html)
-
-print("Gráficos salvos como strings HTML.")
+# Exportar para HTML
+barras.write_html('barras.html')
+pizza.write_html('pizza.html')
