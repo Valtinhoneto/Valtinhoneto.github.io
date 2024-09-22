@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard de Satisfação</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -21,9 +22,8 @@
         h2 {
             color: #333;
         }
-        iframe {
+        .plotly-graph {
             margin: 20px 0;
-            border: 2px solid #ddd;
         }
     </style>
 </head>
@@ -31,9 +31,19 @@
     <h1>Dashboard de Satisfação da População</h1>
 
     <h2>Média de Satisfação por Sexo</h2>
-    <iframe src="./barras.html" width="90%" height="600px" frameborder="0"></iframe>
+    <div class="plotly-graph">
+        <!-- Coloque aqui o conteúdo gerado do arquivo barras_html.txt -->
+        <!-- Você deve copiar o conteúdo do barras_html.txt aqui -->
+        <!-- Exemplo: -->
+        <!-- <div> ... conteúdo do gráfico ... </div> -->
+    </div>
 
     <h2>Distribuição de Sexo na População</h2>
-    <iframe src="./pizza.html" width="90%" height="600px" frameborder="0"></iframe>
+    <div class="plotly-graph">
+        <!-- Coloque aqui o conteúdo gerado do arquivo pizza_html.txt -->
+        <!-- Você deve copiar o conteúdo do pizza_html.txt aqui -->
+        <!-- Exemplo: -->
+        <!-- <div> ... conteúdo do gráfico ... </div> -->
+    </div>
 </body>
 </html>
